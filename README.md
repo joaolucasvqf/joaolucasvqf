@@ -1,12 +1,12 @@
-### 👋 Hi there, i'm João Fonseca, a Full-Stack Developer from Brazil.
+### 👋 Hi there, i'm João Fonseca, a Full-Stack Software Developer from Brazil.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=joaolucasvqf.joaolucasvqf) <br>
 [![Linkedin: joaolucasvqf](https://img.shields.io/badge/-joaolucasvqf-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaolucasvqf/)](https://www.linkedin.com/in/joaolucasvqf/)
 [![instagram: joaolucasvqf](https://img.shields.io/badge/-joaolucasvqf-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joaolucasvqf/)](https://www.instagram.com/joaolucasvqf/)
-[![facebook: joaolucasfonseca](https://img.shields.io/badge/-joaolucasvqf-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/joaolucasfonseca/)](https://www.facebook.com/joaolucasfonseca/)
+[![facebook: joaolucasfonseca](https://img.shields.io/badge/-joaolucasfonseca-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/joaolucasfonseca/)](https://www.facebook.com/joaolucasfonseca/)<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=joaolucasvqf.joaolucasvqf)
 
 <p>I've been working with software development since 2018.
-<p>C# Software Developer II at <a href="https://www.softplan.com.br/">Softplan</a></p>
+<p>Currently working as Senior Software Developer (C# | .NET Core)  at <a href="www.https://stefanini.com/">Stefanini</a></p>
 
 ### Tech Skills
 
