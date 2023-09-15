@@ -6,7 +6,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joaolucasvqf.joaolucasvqf)
 
 <p>I've been working with software development since 2018.
-<p>Currently working as Senior Software Developer (C# | .NET Core)  at <a href="www.https://stefanini.com/">Stefanini</a></p>
+<p>Currently working as Software Developer (C# | .NET Core)  at <a href="www.https://wexinc.com/">Wex</a></p>
+
+### You can check my CV here:
+<p><a href="https://joaolucasvqf.github.io/resume/">English Version</a></p>
+<p><a href="https://joaolucasvqf.github.io/">Portuguese (Brazil) Version</a></p>
 
 ### Tech Skills
 
